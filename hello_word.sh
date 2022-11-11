@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "Hello word"
+while :
+do
+	echo "ajjjajajjajajjjaj"
+	sleep 1
+done
