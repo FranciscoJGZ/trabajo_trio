@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 int main () {
-	cout << "Hola Cheater!" << endl;
+	cout << "Ez game" << endl;
 }
